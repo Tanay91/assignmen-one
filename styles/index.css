@@ -243,3 +243,36 @@ third banner end */
     border-radius: 5px;
     color: white;
 }
+/* latest container section end */
+/* footer start */
+.footer-section{
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    border: 1px solid red;
+    height: 300px;
+    background-color: black;
+    color: white;
+    
+    
+}
+.footer-title{
+    margin-top: 70px;
+    margin-bottom: 30px;
+    font-size: 48px;
+    
+}
+.footer-para{
+    margin-bottom: 30px;
+    font-size: 18px;
+    width: 50%;
+    margin-left: 25%;
+}
+.shop{
+    color: #E55473;
+
+}
+.copyright{
+    font-size: 12px;
+}
+/* footer end */
