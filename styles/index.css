@@ -212,10 +212,9 @@ third banner end */
     align-items: center;
     text-align: center;
     margin-top: 40px;
-    border: 1px solid red;
     margin-left: 80px;
     margin-right: 50px;
-    background-image: url('/Rectangle\ 9.png');
+    background-image: url('../Flower/Rectangle\ 9.png');
     background-size: cover;
     height: 250px;
     
