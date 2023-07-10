@@ -166,5 +166,34 @@ li:hover{
     color: white;
 
 }
-
+/* 
+third banner end */
+/* instastam banner start */
+.insta-banner-container{
+    margin-top: 60px;
+}
+.insta-banner-info{
+    text-align: center;
+}
+.insta-boxes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:50%;
+}
+.rose1{
+    width: 280px;
+    height: 300px;
+    
+}
+.instagram-pictures{
+    display: flex;
+    margin-left: 60px;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-right: 30px;
+    margin-top: 30px;
+    
+    
+}
 
