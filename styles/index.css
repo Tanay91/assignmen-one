@@ -1,0 +1,45 @@
+/* nav styles */
+*{
+    margin: 0;
+    padding: 0;
+}
+.flower-nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 20px;
+    align-items: center;
+    background-color: rgb(235, 154, 235);
+    height: 100px;
+}
+.services{
+    display: flex;
+}
+li{
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    width: 60px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px;
+    font-weight: bold;
+}
+.list{
+    background-color: pink;
+    
+}
+.logo{
+    font-size: 25px;
+    color: rgb(226, 25, 25);
+    
+}
+span{
+    color:black;
+}
+li:hover{
+    background-color: purple;
+    transition: 2s;
+}
+/* nav styles end */
