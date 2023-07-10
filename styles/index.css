@@ -7,10 +7,10 @@
     display: flex;
     justify-content: space-around;
     padding: 20px;
-    margin: 20px;
     align-items: center;
     background-color: rgb(235, 154, 235);
     height: 100px;
+    
 }
 .services{
     display: flex;
@@ -33,6 +33,7 @@ li{
 .logo{
     font-size: 25px;
     color: rgb(226, 25, 25);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
 }
 span{
@@ -43,3 +44,41 @@ li:hover{
     transition: 2s;
 }
 /* nav styles end */
+
+/* banner style starts */
+.banner-content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: fit-content;
+    background-color:rgba(229, 84, 115, 0.10) ;
+    width: 100%;
+
+}
+.banner-peragraph{
+    width: 400px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    
+}
+.banner-pic{
+    width: 435px;
+    height: 450px;
+    margin-top: 20px;
+}
+.banner-title{
+    width: 400px;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.banner-info{
+    margin-left: 100px;
+
+}
+.btn{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color:#E55473;
+    color: white;
+}
