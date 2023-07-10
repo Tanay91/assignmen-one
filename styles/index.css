@@ -82,3 +82,16 @@ li:hover{
     background-color:#E55473;
     color: white;
 }
+/* banner style end */
+
+/* banner container starts */
+.container-heading{
+    text-align: center;
+    margin-top: 60px;
+    padding: 20px;
+}
+.container-title{
+    margin-bottom: 10px;
+    font-size: 40px;
+}
+
