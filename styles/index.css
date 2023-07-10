@@ -205,4 +205,42 @@ third banner end */
     width: 50%;
     margin-left: 320px;
 }
+/* insta banner end */
+/* latest container starts */
 
+.latest-container-info{
+    align-items: center;
+    text-align: center;
+    margin-top: 40px;
+    border: 1px solid red;
+    margin-left: 80px;
+    margin-right: 50px;
+    background-image: url('/Rectangle\ 9.png');
+    background-size: cover;
+    height: 250px;
+    
+
+}
+.latest-container-title{
+    font-size: 40px;
+    margin-bottom: 10px;
+    padding: 20px;
+    
+}
+.latest-container-para{
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+.sub{
+    width: 500px;
+    height: 35px;
+    
+}
+.btn-two{
+    height: 39px;
+    width: 100px;
+    background-color: #E55473;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
